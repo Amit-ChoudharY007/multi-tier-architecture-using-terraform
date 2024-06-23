@@ -108,7 +108,7 @@ Follow these steps to deploy the architecture:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mathesh-me/multi-tier-architecture-using-terraform.git
+   git clone https://github.com/Amit-ChoudharY007/multi-tier-architecture-using-terraform.git
    ```
 
 2. Make changes as per your needs.
